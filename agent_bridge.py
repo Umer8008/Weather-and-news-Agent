@@ -9,6 +9,7 @@ Rules:
   - Auto-approves tool calls so the GUI works without stdin prompts.
 """
 
+
 import importlib.util
 import os
 import sys
