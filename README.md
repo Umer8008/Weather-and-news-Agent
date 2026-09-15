@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32191239/README.md)
-# Umer's Agent 🤖
+# City Intelligence System 🤖
 
 > **AI-Powered City Intelligence System** — Ask about weather or the latest news for any city on Earth.
 
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-**Umer's Agent** is an AI agent built with LangChain and MistralAI that:
+**City Intelligence system** is an AI agent built with LangChain and MistralAI that:
 
 - Accepts a natural-language query (city name + intent).
 - Decides autonomously whether to call the **weather tool** (OpenWeatherMap) or the **news tool** (Tavily Search).
