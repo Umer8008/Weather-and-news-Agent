@@ -14,6 +14,7 @@ Rules:
   - Embedded HTML/CSS loaded from styles/main_styles.css.
 """
 
+
 import os
 import re
 import sys
