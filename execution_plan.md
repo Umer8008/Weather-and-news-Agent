@@ -1,5 +1,6 @@
 # Execution Plan 📋
 
+
 > Step-by-step breakdown of how Umer's Agent processes a request from user click to final response.
 
 ---
