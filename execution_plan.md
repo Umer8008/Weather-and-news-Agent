@@ -42,9 +42,9 @@ User clicks "Ask the Agent"
         │
         ▼
  _build_prompt(city, query_type)
-   ├─ "Weather" → "What is the current weather in Karachi?"
-   ├─ "News"    → "What is the latest news in Karachi?"
-   └─ "Agent"   → "Give me information about Karachi — either weather or news."
+   ├─ "Weather" → "What is the current weather in Lahore?"
+   ├─ "News"    → "What is the latest news in Lahore?"
+   └─ "Agent"   → "Give me information about Lahore — either weather or news."
 ```
 
 ---
