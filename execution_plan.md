@@ -34,7 +34,7 @@ streamlit run gui.py
 ## Phase 2 — User Input
 
 ```
-User types city name           ← e.g. "Karachi"
+User types city name           ← e.g. "Lahore"
         │
 User selects query type        ← e.g. "🌦️ Weather Update"
         │
